@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hiteshkr/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/hiteshkr/Downloads/Udghosh/app/build/intermediates/pre-dexed/debug/library-2.4.0_20d49f3ca2ee076234afb2d50bc043dac0dd83d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hiteshkr/.android/build-cache/b79f9dd27b5d5d788969226be04a16b7a0fc9ee4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="/Users/hiteshkr/Downloads/Udghosh/app/build/intermediates/pre-dexed/debug/classes_8c38adc7ade0410f7a717a59bbe6252ad45d2907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hiteshkr/.android/build-cache/0fb75a47d43b2403985ba33f01bf41832060a647/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/Users/hiteshkr/Downloads/Udghosh/app/build/intermediates/pre-dexed/debug/classes_467f18ac12a3b64f9979a30a2e5c2244a8451f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hiteshkr/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/hiteshkr/Downloads/Udghosh/app/build/intermediates/pre-dexed/debug/picasso-2.3.2_23e6b69e1dbf7cca5edf6e41168c4768eccd7b49.jar" />
+    </item>
+
+</items>

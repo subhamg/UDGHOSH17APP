@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Udghosh</string>
+    <string name="facebook_app_id">1448140635277983</string>
+    <string name="btn_login_fb">Login with Facebook</string>
+    <string name="fb_login_protocol_scheme">fb1448140635277983</string>
+    <string name="name">Name</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered? Login here.</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="sign_up">Not Registered ? Register here.</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="title_activity_football">Football</string>
+    <string name="ath">
+        "\n<b>RULES:</b>\n"
+        "The competition shall be conducted under the International Athletics Federation rules as adopted from time to time by AFI, unless otherwise modified.\n\n"
+        "Each college will be entitled to enter not more than two competitors per event. For relay races, not more than an entry of four with one reserve per event shall be accepted.\n\n"
+        "An athlete is allowed to participate in a " <b>maximum of 3</b> "events excluding relays.\n\n"
+        "As far as possible, changes, if any, should be intimated fifteen minutes before the start of the event. Lots for lanes will be drawn as soon as the first call is given.
+\n\n"
+        "In a standard track of eight lanes, distribution of lanes and qualifying to subsequence round will be done as per standard rules for 100m, 200m, 400m run.\n\n"
+        "The competitions will be held for the following events:\n\n"
+        <b>"MEN\n"</b>
+        "\t100m\n
+\t200m\n
+\t400m\n
+\t800m\n
+\t1500m\n
+\t5000m\n
+\t110m Hurdlles\n
+\t400m Hurdles\n
+\t4*100m Relay\n
+\t4*400m Relay\n
+\tLong jump\n
+\tTriple jump\n
+\tHigh jump\n
+\tPolevault\n
+\tShot put\n
+\tDiscuss throw\n
+\tHammer throw\n
+\tJavelin throw\n\n
+"
+"The points for individual positions for I, II, III and IV are 5, 3, 2, 1 respectively. For relay races, the points will be 10, 6, 4, 2 respectively.\n\n"
+        "The sum total of points secured in all the events in athletics by a college will determine 1st, 2nd and 3rd positions in Athletics.\n\n"
+        "Best athlete for both Male and Female will be decided by the maximum number of points obtained by an athlete in the Athletics championship. In case of a tie for best athlete, the athlete who has broken the most number of meet records would be recognized. If the tie is still unresolved, award is given to the players having better team category rank.\n\n"
+        "Certificate shall be awarded to the first three places in all the athletic events.\n\n
+Starter blocks and vaulting poles are not provided by organizing team.\n\n
+In any event if there are less than 3 entries, that event will be considered as cancelled.\n\n
+In case of a tie for an individual event, points will be shared by both athletes and colleges as shown in the following table. In case of relay events the points will be double as the relay events have double weightage. If the number of tied players/teams are more than 4, 4 players/teams will be chosen by lot and then points distributed accordingly.
+\n
+        <img src="@drawable/e" />
+        \nIn case of tie for the Athletics Championship for men and women, points will be shared between the teams. For eg., if in men category, two teams tie for 2nd position, then both teams would get 10 points and the next team would get 4 points.\n\n"
+        <b>"Contact: Shubham Dhaneria - 9151636064 \n\n"</b>
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_atheletics">Atheletics</string>
+    <string name="title_activity_badminton">Badminton</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_basketball">Basketball</string>
+    <string name="title_activity_carom">Carom</string>
+    <string name="title_activity_cricket">Cricket</string>
+    <string name="title_activity_chess">Chess</string>
+    <string name="title_activity_handball">Handball</string>
+    <string name="title_activity_hockey">Hockey</string>
+    <string name="title_activity_kabaddi">Kabaddi</string>
+    <string name="title_activity_kho_kho">KhoKho</string>
+    <string name="title_activity_lawn__tennis">Lawn Tennis</string>
+    <string name="title_activity_lifting">Lifting</string>
+    <string name="title_activity_skating">Skating</string>
+    <string name="title_activity_sports__quiz">Sports Quiz</string>
+    <string name="title_activity_squash">Squash</string>
+    <string name="title_activity_swimming">Swimming</string>
+    <string name="title_activity_table__tennis">Table Tennis</string>
+    <string name="title_activity_taekwando">Taekwando</string>
+    <string name="title_activity_volleyball">Volleyball</string>
+
+
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+    <string name="aboutUD">
+        "<b>Udghosh</b> is the largest intercollegiate sports festival in the country with participation from colleges (including the IITs, NITs and other major institutes) around the country offering an unparalleled competitive environment.\n\nOur team of editors and developers ensure you get the best possible experience of all the matches or trending news in a snap.\n\nDo write to us about your feedback of the application."
+    </string>
+    <string name="faq">
+        <b>"What is the procedure to be followed after reaching IITK?"</b>"\n\nYou need to report to the Hospitality Desk, Students Activity Centre (SAC) along with your college identity card.\nYou will have to produce the receipt of your online payment and a recent passport size photograph.\nBooklet will act as your identity card in campus.\nIn case of a big contingent, contingent leader needs to present the ID cards of all the people in his contingent at the hospitality desk along with a list of all the people. Accommodation would be strictly on shared basis.\n\n\n"
+        <b>"Can two participants be from different colleges in a team event?"</b>"\n\nNo, Udghosh does not allow cross participation from colleges in a team event.\n\n\n"
+        <b>"Can I get accommodation on 10th october or before although the festival starts from 12th october?"</b>"\n\nNo, accommodation will be provided from 11th evening. All the participants coming before can stay in hotels outside IIT Kanpur.\n\n\n"
+        "If you face any technical difficulties, please write to us at <b>subham@udghosh.org</b>""\n\n"
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
